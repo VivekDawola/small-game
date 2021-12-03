@@ -1,1 +1,1 @@
-# small-game
+# C23 sol
